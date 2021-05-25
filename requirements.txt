@@ -1,3 +1,12 @@
+Version 12
+[x] Each todo should have it's own edit button.
+[x] Each button should work. 
+[x] Fix Cancel.
+
+Version 11
+[x] There should be a button to toggle each todo.
+[x] The toggle buttons should work.
+
 Version 10
 [x] There should be a remove button for each todo.
 [x] The remove buttons should work.
